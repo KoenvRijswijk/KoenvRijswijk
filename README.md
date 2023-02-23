@@ -17,11 +17,11 @@ During my trainneeship at Educom I have created a simple webshop (with various t
 - AJAX
 - API calls for websop items
 
-[Webshop]("https://github.com/KoenvRijswijk/Webshop")
+[Go to Webshop repository](https://github.com/KoenvRijswijk/Webshop)
 
 
 ### Recursion
-- Scan folders and files recusivly starting from a root folder (sing Binary Tree mechanisme)
+- Scan folders and files recusivly starting from a root folder (using Binary Tree mechanisme)
 
 
 <!--
