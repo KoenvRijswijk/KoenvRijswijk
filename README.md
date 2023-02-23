@@ -16,7 +16,7 @@
 During my trainneeship at Educom I have created a simple webshop (with various techniques)
 - Object Oriented Programming 
 - AJAX
-- API calls for websop items
+- API calls for webshop items (JSON, XML)
 
 [Go to Webshop repository](https://github.com/KoenvRijswijk/Webshop)
 
