@@ -13,11 +13,16 @@
 
 ### PHP Webshop
 During my trainneeship at Educom I have created a simple webshop (with various techniques)
-- Ajax
+- Object Oriented Programming 
+- AJAX
 - API calls for websop items
+
+[Webshop]("https://github.com/KoenvRijswijk/Webshop")
+
 
 ### Recursion
 - Scan folders and files recusivly starting from a root folder (sing Binary Tree mechanisme)
+
 
 <!--
 **KoenvRijswijk/KoenvRijswijk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
