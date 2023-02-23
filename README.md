@@ -1,6 +1,6 @@
-### Hi I'm Koen
+### Hi, I'm Koen
 
-### I love creating programs and web applications
+### I love helping the world by creating usefull programs and web applications
 -----
 ### My Skils:
 <a href="https://www.mysql.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" style="max-width: 100%;"></a>
