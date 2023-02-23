@@ -22,7 +22,7 @@ During my trainneeship at Educom I have created a simple webshop (with various t
 
 
 ### Recursion
-- Scan folders and files recusivly starting from a root folder (using Binary Tree mechanisme)
+- Scan folders and files recursivly: starting from a root folder using Binary Tree mechanisme
 
 [Go to Recursion repository](https://github.com/KoenvRijswijk/Recursion)
 <!--
